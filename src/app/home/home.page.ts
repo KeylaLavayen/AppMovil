@@ -9,4 +9,10 @@ export class HomePage {
 
   constructor() {}
 
+  iniciarSesion() {
+    console.log('Iniciar sesión');
+  }
+  registrarse() {
+    console.log('Registrarse');
+  }
 }
